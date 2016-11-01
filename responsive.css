@@ -1,0 +1,14 @@
+/* Smartphones (portrait and landscape) ----------- */
+@media screen and (max-width : 300px) {
+/* Styles */
+  body {
+    background-color: red;
+  }
+}
+
+@media screen and (max-width : 600px) {
+/* Styles */
+  body {
+    background-color: #ffffff;
+  }
+}
