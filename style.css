@@ -2,7 +2,7 @@ body {
   margin-top: 0;
   padding: 0;
   /*min-width: 600px;*/
-  /*background-color: red;*/
+  background-color: red;
 }
 
 @font-face {
@@ -103,7 +103,6 @@ body {
 }
 
 header {
-
   padding-top: 140px;
   padding-bottom: 80px;
   padding-right: 80px;
@@ -161,8 +160,6 @@ header h3 {
   transition-property: background;
   transition-duration: 0.5s;
   transition-timing-function: ease;
-
-
 }
 
 .headerbutton:hover {
